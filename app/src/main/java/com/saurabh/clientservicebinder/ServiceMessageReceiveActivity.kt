@@ -15,6 +15,8 @@ import android.widget.Toast.LENGTH_SHORT
 import androidx.appcompat.app.AppCompatActivity
 import com.saurabh.clientservicebinder.databinding.ActivityServiceMessageReceiveBinding
 
+// To check this demo see ServicesDemo --> Remote Service button from below git link
+// github link https://github.com/SaurabhAdmane/ServicesDemo
 class ServiceMessageReceiveActivity : AppCompatActivity(), View.OnClickListener {
 
     lateinit var binding: ActivityServiceMessageReceiveBinding
